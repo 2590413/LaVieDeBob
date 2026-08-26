@@ -39,10 +39,6 @@ Modéliser et créer toutes les classes, propriétés et méthodes nécessaires 
 
 ## Relations principales
 
-- Personne possède un Emploi et un Compte --> Composition (agrégation forte) Personne-Emploi et Personne-Compte. Chaque objet Personne contient ses propres instances de Emploi et Compte. --> Emploi et Compte sont utilisés comme propriétés dans Personne.
-- Personne interagit avec Animal --> association entre ces deux classes (lien via la méthode Nourrir).
-- Animal <-- Chat, chien ---> Héritage + polymorphisme pour les comportements spécifiques.
-
 ## Diagramme de classes
 - Créez le diagramme de classe qui modélise la mise en situation
 
