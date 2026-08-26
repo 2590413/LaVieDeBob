@@ -1,4 +1,4 @@
-# S2 BobCity (programmation orientée objet en C#, manipulation des dates et tests unitaires)
+# S2 - La vie de bob (programmation orientée objet en C#, manipulation des dates et tests unitaires)
 
 ## Objectifs
 - Modélisation orientée-objet
