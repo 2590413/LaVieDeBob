@@ -9,7 +9,9 @@
 
 ## Instructions
 1- Faire une copie du projet gabarit (cliquer sur Use this template) dans votre espace personnel.
+
 2- Modéliser la situation (de préférence en équipe).
+
 3- Implémenter la solution : Se fera au fur et à mesure qu'on verra la matière (semaines 2 et 3).
 
 ## Situation à modéliser et implémenter
